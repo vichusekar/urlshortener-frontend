@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.signup-wrapper{
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 450px;
+  width: 370px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.signup-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.signin-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.signin-wrapper{
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 450px;
+  width: 370px;
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.f-password{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
+
+.fpassword-wrapper{
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 450px;
+  width: 370px;
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.password-wrapper{
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 450px;
+  width: 370px;
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.f-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.reset-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.loading-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+.main-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.url-shortened{
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 450px;
+  width: 370px;
+  border: 1px solid orange;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.table-wrapper{
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+
+.url-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.shortened-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: coral;
+  margin-top: 30px;
+}
